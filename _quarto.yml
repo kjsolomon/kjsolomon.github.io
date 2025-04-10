@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Kelsey Solomon"
+  title: "Kelsey J. Solomon"
   repo-url: https://github.com/kjsolomon/kjsolomon.github.io.git
   repo-actions: [issue]
   navbar:
